@@ -1,1 +1,7 @@
 # C-sharp
+
+STRING REVERSAL:
+1. using in-built method
+2. manually
+
+INITIALIZING A DICTIONARY AND PRINTING ALL ELEMENTS BY ITERATING
