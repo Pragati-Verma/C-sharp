@@ -1,7 +1,7 @@
 # C-sharp
 
-STRING REVERSAL:
+String reversal:
 1. using in-built method
 2. manually
 
-INITIALIZING A DICTIONARY AND PRINTING ALL ELEMENTS BY ITERATING
+Initializing a dictionary variable and printing all elements by iterating
